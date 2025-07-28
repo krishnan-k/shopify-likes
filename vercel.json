@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "env": {
+    "SHOPIFY_STORE": "@shopify_store",
+    "SHOPIFY_ADMIN_TOKEN": "@shopify_admin_token"
+  }
+}
